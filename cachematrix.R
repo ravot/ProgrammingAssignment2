@@ -1,5 +1,7 @@
-'## Put comments here that give an overall description of what your
-## functions do
+## Creates a special "matrix" that can cache its inverse.
+## Function Will read cached data first to see if 
+## inverse has already been calculated.
+## Reads from cache if so. Otherwise, calculates inverse.
 
 ## creates a special "matrix" object that can cache its inverse
 
